@@ -49,8 +49,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang"  alt="golang" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/hugo/hugo-original.svg" title="hugo"  alt="hugo" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="jira"  alt="jira" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="latex"  alt="latex" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux"  alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex"  alt="latex" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty"  alt="putty" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;

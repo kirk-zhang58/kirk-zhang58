@@ -1,4 +1,5 @@
-### Hi there 👋
+<img/ src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp">
+
 
 
 **kirk-zhang58/kirk-zhang58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

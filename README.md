@@ -1,4 +1,4 @@
-<div  style="text-align:center">
+<div  style="text-align: center; width: 500px; border: green solid 1px;">
 <img src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.webp">
 </div>
 

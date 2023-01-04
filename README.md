@@ -21,7 +21,7 @@
 
 ### 😎About Me : 
 
-<img src="https://media.giphy.com/media/3oz8xzYXuCWF1IXv68/giphy.gif" width="50"> I am a Full Stack Developer  from mainland-china.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/3oz8xzYXuCWF1IXv68/giphy.gif" width="50"> from mainland-china.
 
 - 🔭 I’m currently working on HSBC Tech China
 - 🌱 I’m currently learning Golang / Java / Algorithm / Distribute System
